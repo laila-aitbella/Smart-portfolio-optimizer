@@ -33,7 +33,4 @@ Un simulateur interactif développé avec **Streamlit** permettant d’optimiser
 ---
 ## Demo
 ![Description de l'image](demo/optimizer.png)
-![Description de l'image](demo/optimizer 2.png)
-![Description de l'image](demo/optimizer 3.png)
-![Description de l'image](demo/optimizer 4.png)
 
